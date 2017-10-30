@@ -1,0 +1,6 @@
+#time,name,uid,state,event,msg
+0.0000,agent_0.bootstrap_3:,,,sync abs,1509396117.01:1509396116.97:1509396116.99:ntp
+0.0365,agent_0.bootstrap_3:MainThread,pilot.0000,,sync ref,agent start
+0.0415,agent_0.bootstrap_3:MainThread,,,sync ref,agent start
+105.1504,agent_0.bootstrap_3:MainThread,pilot.0000,,stop,finally clause agent
+105.1504,agent_0.bootstrap_3:MainThread,,,QED,

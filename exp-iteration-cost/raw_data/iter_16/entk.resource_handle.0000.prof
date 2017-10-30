@@ -1,0 +1,17 @@
+#time,name,uid,state,event,msg
+1509399660.2118,entk.resource_handle.0000:,,,sync abs,js-17-212.jetstream-cloud.org:127.0.0.1:1509399660.21:1509399660.21:sys
+1509399660.2122,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,resource handle instantiated,
+1509399660.2129,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,allocation started,
+1509399660.8626,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,pilot created,
+1509399664.5841,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,pilot submitted,
+1509399664.5842,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,waiting for pilot active,
+1509399714.3041,entk.resource_handle.0000:Thread-1,entk.resource_handle.0000,,resource request active,
+1509399714.3810,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,pilot active,
+1509399714.3811,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,resource handle instantiated,
+1509399714.7682,entk.resource_handle.0000:MainThread,,,allocation done,
+1509399714.7683,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,run called,
+1509399714.7684,entk.resource_handle.0000:MainThread,,,calling appmanager,
+1509400856.8703,entk.resource_handle.0000:MainThread,,,returned from appmanager,
+1509400856.8703,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,deallocation started,
+1509400862.8424,entk.resource_handle.0000:Thread-1,entk.resource_handle.0000,,resource request canceled,
+1509400864.6493,entk.resource_handle.0000:MainThread,entk.resource_handle.0000,,deallocation done,
