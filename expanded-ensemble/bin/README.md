@@ -41,7 +41,13 @@ Next, you need to set a few environment variables:
 ```
 export RADICAL_ENTK_VERBOSE=info
 export RADICAL_PILOT_DBURL="mongo db url"
+export RP_ENABLE_OLD_DEFINES=True
 ```
+
+* Note: One additional edit to  be made due to changes in python on SuperMIC (not required after the next
+RP release):
+Change line 722 of ```$VE/lib/python2.7/site-packages/radical/pilot/configs/resource_xsede.json```($VE points to your 
+virtualenv) from ```module load python``` to ```module load python/2.7.7-anaconda```.
 
 
 The ```runme.py``` script contains the information about the application 
