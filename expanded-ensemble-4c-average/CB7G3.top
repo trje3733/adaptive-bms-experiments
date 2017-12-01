@@ -1,0 +1,15 @@
+#include "amber03.ff/forcefield.itp"
+#include "3atomtypes.itp"
+#include "cucurbit_7_uril_GMX.itp"
+#include "3_GMX.itp"
+#include "amber03.ff/tip3p.itp"
+
+
+[ system ]
+Complex of CB7 and Guest 3 with solvent in water
+
+[ molecules ]
+; Compound        #nmols
+HOS                1
+MOL                1
+SOL             2712
